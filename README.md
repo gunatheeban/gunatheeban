@@ -26,11 +26,13 @@ I work mostly with:
 - Building an **AI-powered CV / resume generator** with:
   - ATS-friendly templates  
   - PDF export  
-  - Payment integration (PayPal, Lemon Squeezy later)  
+  - Payment integration (PayPal now, Lemon Squeezy later)  
 - Experimenting with **AI integrations** (OpenAI + local models) for:
   - CV analysis and improvement suggestions  
   - Code assistance and automation  
-- Improving my skills around **clean architecture**, **performance**, and **scalable backend design**
+- Improving skills around **clean architecture**, **performance**, and **scalable backend design**
+
+---
 
 ### 🧩 What you’ll find in my repos
 

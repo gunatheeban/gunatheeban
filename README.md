@@ -46,6 +46,6 @@ I work mostly with:
 ### 📫 Connect
 
 - GitHub: [@gunatheeban](https://github.com/gunatheeban)  
-- (Add LinkedIn / email / website here if you want)
+- [LinkedIn](https://www.linkedin.com/in/gunatheeban/) / [Email](gunatheeban@gmail.com)
 
 If any of my projects look interesting, feel free to ⭐, fork, or open an issue. Always happy to learn and collaborate.
